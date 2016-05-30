@@ -1,1 +1,2 @@
-# practicalMachineLearning
+# pracML
+Practical Machine Learning
